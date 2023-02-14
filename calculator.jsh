@@ -19,6 +19,6 @@ if (operation ==1 ){
     }
 
 }else{
-
+System.out.println("invalid user input");
 }
 /exit
